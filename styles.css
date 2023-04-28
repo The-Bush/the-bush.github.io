@@ -4,9 +4,11 @@ iframe {
     left: 0;
     width: 100vw;
     height: 100vh;
+    background-color: black;
   }
 
 html, body{
     height: 100%;
     overflow: hidden;
+    background-color: black;
 }
